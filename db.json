@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "12937e67-e1c5-4ab4-9f8d-7c312e8dc2b2",
+      "category": "food",
+      "title": "Hot Dog Eating Contest",
+      "description": "Eat a lot of hot dogs and win a prize!",
+      "location": "State Fairgrounds",
+      "date": "September 29, 2022",
+      "time": "12:00PM",
+      "organizer": "Adam Jahr"
     }
   ]
 }
